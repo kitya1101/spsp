@@ -8,9 +8,9 @@ Reveal.initialize({
   // Loops the presentation, defaults to false
   loop: false,
   // Flags if mouse wheel navigation should be enabled
-  mouseWheel: true,
+  mouseWheel: false,
   // Apply a 3D roll to links on hover
-  rollingLinks: true,
+  rollingLinks: false,
   // UI style
   theme: Reveal.getQueryHash().theme || "default",
   // Transition style
